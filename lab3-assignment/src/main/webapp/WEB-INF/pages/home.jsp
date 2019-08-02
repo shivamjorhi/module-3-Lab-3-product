@@ -20,7 +20,7 @@
 </tr>
 <tr>
 <td colspan="3"> 
-<input type="submit" value="save"/> 
+<input type="submit" value="Add Product"/> 
 </td>
 </tr>	
 </table>
